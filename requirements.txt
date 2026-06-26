@@ -2,3 +2,8 @@ statsbombpy
 pandas
 pathlib
 scipy
+numpy
+scikit-learn 
+xgboost 
+joblib
+matplotlib

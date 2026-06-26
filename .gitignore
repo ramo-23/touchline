@@ -25,9 +25,15 @@ data/processed/*
 !data/processed/.gitkeep
 
 models/pre_match/*.pkl
+models/pre_match/*.json
 models/live_winprob/*.pkl
+models/live_winprob/*.csv
+models/live_winprob/*.png
+models/live_winprob/*.json
+
 
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+
